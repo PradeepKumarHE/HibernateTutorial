@@ -11,7 +11,7 @@ import org.hibernate.Transaction;
 import com.pradeep.hibernate.dto.UserDetailsDTO;
 import com.pradeep.hibernate.util.HibernateUtil;
 
-public class InsertData {
+public class AddUser {
 	public static void main(String[] args) throws UnsupportedEncodingException {
 
 		UserDetailsDTO user = new UserDetailsDTO();
